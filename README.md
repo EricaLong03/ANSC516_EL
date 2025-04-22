@@ -6,3 +6,4 @@ Department of Animal Sciences, Purdue University, West Lafayette, IN 47907, USA
 
 Qiime2 steps to process the data and create files for R.
 R scripts used to create the graphs for the project.
+Metadata for samples.
